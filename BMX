@@ -1,4 +1,4 @@
-if BP = true then
+if BP == true then
   game.Players:Chat('-gh 9743558381')
 end
 
